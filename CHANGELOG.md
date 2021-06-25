@@ -1,3 +1,16 @@
+# [1.7.0](https://github.com/todogroup/repolinter-action/compare/v1.6.5...v1.7.0) (2021-06-25)
+
+
+### Bug Fixes
+
+* update CI and files from new relic -> todogroup ([33bb80c](https://github.com/todogroup/repolinter-action/commit/33bb80ce87964580b717b6ed554e97922b920b5c))
+* update dependencies ([5b89b92](https://github.com/todogroup/repolinter-action/commit/5b89b92ad79b39ada0c7d4d94ee14096e8bbf823))
+
+
+### Features
+
+* switch to canonical repolinter ([5c25b29](https://github.com/todogroup/repolinter-action/commit/5c25b29a0b917aad1c711996c8bfc32a63408545))
+
 ## [1.6.5](https://github.com/newrelic/repolinter-action/compare/v1.6.4...v1.6.5) (2020-12-29)
 
 
