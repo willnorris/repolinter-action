@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/todogroup/repolinter-action/compare/v1.7.0...v1.7.1) (2021-06-26)
+
+
+### Bug Fixes
+
+* update action.yml name ([baf8dac](https://github.com/todogroup/repolinter-action/commit/baf8dac81ac57464a30d3e3ac1b22a15b866768b))
+
 # [1.7.0](https://github.com/todogroup/repolinter-action/compare/v1.6.5...v1.7.0) (2021-06-25)
 
 
