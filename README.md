@@ -1,6 +1,6 @@
 # TODOGroup Repolinter Action v1
 
-![CI](https://github.com/todogroup/repolinter-action/workflows/CI/badge.svg?event=push)
+[![GitHub Marketplace version](https://img.shields.io/github/release/todogroup/repolinter-action.svg?label=Marketplace&logo=github)](https://github.com/marketplace/actions/todogroup-repolinter-action) ![CI](https://github.com/todogroup/repolinter-action/workflows/CI/badge.svg?event=push)
 
 This action runs [Repolinter](https://github.com/todogroup/repolinter) on your repository. Repolinter's optional external dependencies (licensee, linguist, github-markup) are installed using a docker build step. Optionally you can also configure this tool to create GitHub issues with the Repolinter output.
 
