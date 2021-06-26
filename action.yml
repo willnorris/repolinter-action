@@ -1,5 +1,5 @@
-name: 'Repolinter Action'
-description: 'Runs Repolinter against a repository, then uses the results to open an issue.'
+name: 'TODOGroup Repolinter Action'
+description: 'Runs Repolinter against a repository, then uses the results to open an issue. This fork is maintained by TODOGroup.'
 author: 'TODOGroup'
 inputs:
   directory:

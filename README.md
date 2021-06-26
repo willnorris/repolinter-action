@@ -1,13 +1,15 @@
-# Repolinter Action v1
+# TODOGroup Repolinter Action v1
 
 ![CI](https://github.com/todogroup/repolinter-action/workflows/CI/badge.svg?event=push)
 
 This action runs [Repolinter](https://github.com/todogroup/repolinter) on your repository. Repolinter's optional external dependencies (licensee, linguist, github-markup) are installed using a docker build step. Optionally you can also configure this tool to create GitHub issues with the Repolinter output.
 
+The original version of this tool was created by [New Relic](https://github.com/newrelic), and this fork was created to continue development under [TODOGroup](https://github.com/todogroup).
+
 ## Inputs
 
 ```yaml
-- uses: repolinter-action@v1
+- uses: todogroup/repolinter-action@v1
   with:
     # The directory Repolinter should run against. Accepts an absolute path
     # or a path relative to $GITHUB_WORKSPACE.
