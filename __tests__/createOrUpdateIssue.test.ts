@@ -368,8 +368,7 @@ describe('createOrUpdateIssue', () => {
         .reply(200, [
           {
             number: 7,
-            body:
-              'my issue body\n<!-- repolinter-action-workflow-number:10 -->\n`',
+            body: 'my issue body\n<!-- repolinter-action-workflow-number:10 -->\n`',
             state: 'open'
           }
         ])
@@ -393,8 +392,7 @@ describe('createOrUpdateIssue', () => {
         .reply(200, [
           {
             number: 7,
-            body:
-              'my issue body\n<!-- repolinter-action-workflow-number:9 -->\n`',
+            body: 'my issue body\n<!-- repolinter-action-workflow-number:9 -->\n`',
             state: 'open'
           }
         ])
@@ -607,8 +605,7 @@ describe('createOrUpdateIssue', () => {
         .reply(200, [
           {
             number: 7,
-            body:
-              'my issue body\n<!-- repolinter-action-workflow-number:11 -->\n`',
+            body: 'my issue body\n<!-- repolinter-action-workflow-number:11 -->\n`',
             state: 'open'
           }
         ])
@@ -627,8 +624,7 @@ describe('createOrUpdateIssue', () => {
         .reply(200, [
           {
             number: 7,
-            body:
-              'my issue body\n<!-- repolinter-action-workflow-number:11 -->\n`',
+            body: 'my issue body\n<!-- repolinter-action-workflow-number:11 -->\n`',
             state: 'closed'
           }
         ])
