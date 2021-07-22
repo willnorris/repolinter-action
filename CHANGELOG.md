@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/todogroup/repolinter-action/compare/v1.7.1...v1.7.2) (2021-07-22)
+
+
+### Bug Fixes
+
+* remove custom config parsing logic ([#6](https://github.com/todogroup/repolinter-action/issues/6)) ([66551a2](https://github.com/todogroup/repolinter-action/commit/66551a29a2524232f194ef9a1448eeebc5add97c)), closes [#4](https://github.com/todogroup/repolinter-action/issues/4)
+
 ## [1.7.1](https://github.com/todogroup/repolinter-action/compare/v1.7.0...v1.7.1) (2021-06-26)
 
 
